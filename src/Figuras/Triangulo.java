@@ -8,12 +8,12 @@ public class Triangulo {
     public double lado2;
     public double lado3;
 
-    public Triangulo(double base, double altura, double lado1, double lado2, double lado3) {
+    public Triangulo(double base, double altura, double lado1, double lado2, double ladoo3) {
         this.base = base;
         this.altura = altura;
         this.lado1 = lado1;
         this.lado2 = lado2;
-        this.lado3 = lado3;
+        this.lado3 = ladoo3;
     }
 
     public double calcularArea() {
